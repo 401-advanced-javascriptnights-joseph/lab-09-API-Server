@@ -7,10 +7,11 @@
 ### Links and Resources
 * [submission PR](https://github.com/401-advanced-javascriptnights-joseph/lab-09-API-server/pull/3)
 * [travis]([![Build Status](https://travis-ci.com/401-advanced-javascriptnights-joseph/lab-09-API-server.svg?branch=master)](https://travis-ci.com/401-advanced-javascriptnights-joseph/lab-09-API-server))
-* [heroku](https://dashboard.heroku.com/apps/lab009) could not get it running
+
+* [heroku](https://dashboard.heroku.com/apps/lab009)
 
 #### Documentation
-* [api docs](http://xyz.com) (API servers)
+* [api docs](https://app.swaggerhub.com/apis/JCode1986/lab-09-simple-api/1.0.0) (API servers)
 * [jsdoc](http://localhost:3000/docs/index.html) (Server assignments)
 
 ### Modules#### 
