@@ -5,8 +5,8 @@
 ### Author: Joseph Hangarter, Pratiibh Bassi, Anthony Triplett
 
 ### Links and Resources
-* [submission PR](http://xyz.com)
-* [travis]()
+* [submission PR](https://github.com/401-advanced-javascriptnights-joseph/lab-09-API-server/pull/3)
+* [travis]([![Build Status](https://travis-ci.com/401-advanced-javascriptnights-joseph/lab-09-API-server.svg?branch=master)](https://travis-ci.com/401-advanced-javascriptnights-joseph/lab-09-API-server))
 * [heroku](https://dashboard.heroku.com/apps/lab009) could not get it running
 
 #### Documentation
